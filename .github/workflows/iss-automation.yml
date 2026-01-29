@@ -21,4 +21,4 @@ jobs:
         run: pip install requests
 
       - name: Run ISS automation script
-        run: python fetch_iss_location.py
+        run: python ISS_Tracker.py
