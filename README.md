@@ -4,8 +4,6 @@ This project fetches the **current location of the International Space Station (
 
 ## How to Run
 
-1. Clone the repo:
-
 ```bash
 git clone https://github.com/YOUR_USERNAME/iss-location-api.git
 cd iss-location-api
